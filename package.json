@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@architect/sandbox": "^2.0.0",
+    "tape": "^5.0.1"
+  }
+}
